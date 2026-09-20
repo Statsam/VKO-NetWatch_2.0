@@ -1,0 +1,6 @@
+{
+  "name": "VKO NetWatch",
+  "description": "School Internet Intelligence Platform for monitoring network quality, detecting incidents, and predicting degradation across East Kazakhstan schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
